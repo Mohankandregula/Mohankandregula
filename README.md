@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mohankandregula
 - 👀 I’m interested in exploring new tech Inventions
-- 🌱 I’m currently learning Python Development
+- 🌱 I’m currently learning Python
 - 📫 How to reach me @ +1 mk2289@nau.edu
 
 <!---
